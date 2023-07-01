@@ -1,11 +1,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjaree&label=Profile%20views&color=0e75b6&style=flat" alt="sunjaree" /> </p>
 
-![MasterHead](https://course-net.com/wp-content/uploads/2020/02/machine-learing.jpg)
+<p align="center">
+  <img src="https://trabeya.com/wp-content/uploads/2020/09/fin-brain2-1.gif" width="450" alt="MasterHead">
+</p>
+
+
 
 ### Hi there 👋, I am Sunjare Zulfiker
 ####  an Undergraduate Research Assistant with a strong passion for Deep Learning and Natural Language Processing.
 
+
+<p align="justify">
 Hi, I am a recent graduate in Computer Science and Engineering from North South University.   I am currently working as a research assistant at the Cyber-Physical Systems Research Lab of North South University. Throughout my academic journey, I have gained expertise in various programming languages such as C, C++, Python, and Java. Additionally, I have a strong foundation in the fields of Deep Learning, Machine Learning, and Natural Language Processing. I am passionate about applying my skills and knowledge to real-world challenges and contributing to meaningful research and development projects. I am eager to explore opportunities where I can utilize my expertise to make valuable contributions in areas such as deep learning, natural Language Processing, and software development.
+</p>
+
 
 Skills: C / C++ / JAVA / Python / Machine Learning / Deep Learning / Natural Language Processing / DJANGO
 - 📫 How to reach me **sunjare.zulfiker@gmail.com**
