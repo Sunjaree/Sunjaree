@@ -9,8 +9,6 @@ Hi, I am a recent graduate in Computer Science and Engineering from North South 
 
 Skills: C / C++ / JAVA / Python / Machine Learning / Deep Learning / Natural Language Processing / DJANGO
 - 📫 How to reach me **sunjare.zulfiker@gmail.com**
-<h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunjaree&theme=onedark" alt="sunjaree" /></a> </p>
 
 
 
