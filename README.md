@@ -35,3 +35,13 @@ Skills: C / C++ / JAVA / Python / Machine Learning / Deep Learning / Natural Lan
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjaree&theme=tokyonight&show_icons=true&locale=en" alt="sunjaree" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjaree&theme=tokyonight" alt="sunjaree" /></p>
+
+
+
+
+
+![My GitHub Language Stats](https://stats-of-sunjaree-m7vo.vercel.app/api/top-langs/?username=sunjaree&langs_count=5&theme=tokyonight)
+
+![Anurag's GitHub stats](https://stats-of-sunjaree-m7vo.vercel.app/api?username=sunjaree&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sunjaree&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
