@@ -7,11 +7,9 @@
 
 
 ### Hi there 👋, I am Sunjare Zulfiker
-####  an Undergraduate Research Assistant with a strong passion for Deep Learning and Natural Language Processing.
-
 
 <p align="justify">
-Hi, I graduated from North South University with a degree in computer science and engineering. I worked as a research assistant at the Cyber-Physical Systems Research Lab of North South University. Throughout my academic journey, I have gained expertise in various programming languages such as C, C++, Python, and Java. Additionally, I have a strong foundation in the fields of Problem Solving, Deep Learning, Machine Learning, and Natural Language Processing. I am passionate about applying my skills and knowledge to real-world challenges and contributing to meaningful research and development projects.
+I graduated from North South University with a computer science and engineering degree. I worked as a research assistant at the Cyber-Physical Systems Research Lab of North South University. Throughout my academic journey, I have gained expertise in various programming languages such as C, C++, Python, and Java. Additionally, I have a strong foundation in Problem Solving, Deep Learning, Machine Learning, and Natural Language Processing. I am passionate about applying my skills and knowledge to real-world challenges and contributing to meaningful research and development projects.
 </p>
 
 
