@@ -11,7 +11,7 @@
 
 
 <p align="justify">
-Hi, I am a recent graduate in Computer Science and Engineering from North South University.   I am currently working as a research assistant at the Cyber-Physical Systems Research Lab of North South University. Throughout my academic journey, I have gained expertise in various programming languages such as C, C++, Python, and Java. Additionally, I have a strong foundation in the fields of Problem Solving, Deep Learning, Machine Learning, and Natural Language Processing. I am passionate about applying my skills and knowledge to real-world challenges and contributing to meaningful research and development projects. I am eager to explore opportunities where I can utilize my expertise to make valuable contributions in areas such as deep learning, natural Language Processing, and software development.
+Hi, I graduated from North South University with a degree in computer science and engineering. I worked as a research assistant at the Cyber-Physical Systems Research Lab of North South University. Throughout my academic journey, I have gained expertise in various programming languages such as C, C++, Python, and Java. Additionally, I have a strong foundation in the fields of Problem Solving, Deep Learning, Machine Learning, and Natural Language Processing. I am passionate about applying my skills and knowledge to real-world challenges and contributing to meaningful research and development projects.
 </p>
 
 
